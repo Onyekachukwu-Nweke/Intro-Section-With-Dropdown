@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.1",
+    "node-sass": "^7.0.3",
+    "popper.js": "^1.16.1"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "scss": "node-sass -o css/ css/"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
